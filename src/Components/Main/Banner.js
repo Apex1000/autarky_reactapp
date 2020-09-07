@@ -4,7 +4,7 @@ export default class Banner extends Component {
     render() {
         return (
             <div>
-                <section id="HeroBanner">
+        <section id="HeroBanner">
         <div id="BannerSlider" className="owl-carousel">
           <div className="item">
             <div className="container">
@@ -18,10 +18,10 @@ export default class Banner extends Component {
                       <br />maurishasellus </p>
                     <div className="bannet-cta">
                       <div className="cta-1">
-                        <a href="#">Click Here</a>
+                        {/* <a href="#">Click Here</a> */}
                       </div>
                       <div className="cta-2">
-                        <a href="#">Read More</a>
+                        {/* <a href="#">Read More</a> */}
                       </div>
                     </div>
                   </div>
@@ -40,10 +40,10 @@ export default class Banner extends Component {
                       <br />sequi aperiam quae repellendus.</p>
                     <div className="bannet-cta">
                       <div className="cta-1">
-                        <a href="#">Click Here</a>
+                        {/* <a href="#">Click Here</a> */}
                       </div>
                       <div className="cta-2">
-                        <a href="#">Read More</a>
+                        {/* <a href="#">Read More</a> */}
                       </div>
                     </div>
                   </div>
