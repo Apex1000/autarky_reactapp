@@ -19,7 +19,7 @@ export default class Footer extends Component {
             <div className="row">
               <div className="col-xs-12 col-sm-12 col-md-6 col-lg-6 col-xl-6">
                 <div className="copy-right">
-                  <p>© Small Business, Inc.</p>
+                  <p>© Autarky technologies.</p>
                 </div>
               </div>
               <div className="col-xs-12 col-sm-12 col-md-6 col-lg-6 col-xl-6 text-right">
@@ -43,7 +43,7 @@ export default class Footer extends Component {
             </div>
             <div className="row">
               <div className="col-12">
-                <p className="designed">Designed by <a href="https://www.position2.com/" >Position2</a></p>
+                <p className="designed"></p>
               </div>
             </div>
           </div>
