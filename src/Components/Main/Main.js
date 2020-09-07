@@ -21,7 +21,7 @@ export default class Main extends Component {
                   <h3>Title</h3>
                   <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Labore sapiente cumque est, quaerat sequi aperiam quae repellendus. Aspernatur corrupti eos quam beatae, voluptatibus nemo distinctio ad suscipit, et officia velit.</p>
                   <div className="cta">
-                    {/* <a title="Read More" href="/"><i className="fa fa-arrow-right" aria-hidden="true" /></a> */}
+                    
                   </div>
                 </div>
               </div>
